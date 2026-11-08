@@ -1,7 +1,7 @@
 # SecureVault
 
 <p align="center">
-  <img src="./public/images/vault_os.png" alt="SecureVault password manager dashboard illustration" width="1200" />
+  <img src="./public/images/vault_os.png" alt="SecureVault password manager dashboard illustration" width="100" />
 </p>
 
 A modern password manager built with Next.js, MongoDB, JWT auth, and AES-256 encryption to help users securely store, organize, and audit their credentials.
