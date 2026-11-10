@@ -18,6 +18,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Password Manager",
   description: "Secure password manager built with Next.js, MongoDB, and shadcn/ui",
+  icons: {
+    icon: "/vault_os.png",
+  },
 };
 
 export default function RootLayout({
