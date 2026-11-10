@@ -6,6 +6,8 @@
 
 A modern password manager built with Next.js, MongoDB, JWT auth, and AES-256 encryption to help users securely store, organize, and audit their credentials.
 
+Live App: https://managepasswords.vercel.app/
+
 ![Next.js](https://img.shields.io/badge/Next.js-16.1.6-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.x-47A248)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6)
